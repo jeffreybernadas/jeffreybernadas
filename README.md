@@ -1,52 +1,105 @@
-<h1 align="center">Hey! I'm Jeffrey Bernadas</h1>
-<h3 align="center">I‘m a Software Engineer based in the Philippines. I do full-stack web/ mobile applications and love building stuffs in the internet from scratch.</h3>
-<h4 align="center"><a href='https://www.jeffreybernadas.com/' target="blank">Portfolio</a> | <a href='https://www.jeffreybernadas.com/static/media/jeffrey-a4.e3ea73d231604e4fbcad.pdf' target="blank">Resume</a></h4>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jeffreybernadas&label=Profile%20views&color=0e75b6&style=flat" alt="jeffreybernadas" /> </p>
+<h1 align="center">Hi! I'm Jeffrey Bernadas</h1>
+<h3 align="center">I'm a Software Engineer based in the Philippines.</h3>
+<p align="justify">I have hands-on experience in building and managing enterprise-grade applications. I am currently working in one of the leading banks in the country, gaining deep expertise in both frontend and backend development, along with DevOps, security, and scalable architectures. Passionate about creating efficient, well-structured and maintainable systems.</p>
+
+<h3 align="center">Get to know me:</h3>
+
+<h4 align="center"><a href='https://www.jeffreybernadas.com/' target="blank">Portfolio</a> | <a href='https://www.jeffreybernadas.com/static/media/jeffrey-a4.e3ea73d231604e4fbcad.pdf' target="blank">Resume</a> | <a href='https://thecodebit.digital/' target="blank">Server</a></h4>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jeffreybernadas&label=Profile%20views&color=0e75b6&style=flat" alt="jeffreybernadas" /></p>
 
 <h3 align="center">Say hi and connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/brnz6000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brnz6000" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jeffreybernadas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeffreybernadas" height="30" width="40" /></a>
+<a href="https://twitter.com/brnz6000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brnz6000" height="30" width="40" /></a>
 <a href="https://fb.com/jb6000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="userjeb64839928383894949qwerty" height="30" width="40" /></a>
 <a href="https://instagram.com/brnzzzzzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brnzzzzzzz" height="30" width="40" /></a>
 </p>
 
 <h4 align="center">Technologies:</h4>
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
-![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass)
-![Styled-Components](https://img.shields.io/badge/-styled--components-000000?style=flat&logo=styled-components)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwind-css)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-000000?style=flat&logo=framer)
-![Storybook](https://img.shields.io/badge/-Storybook-000000?style=flat&logo=storybook)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
-![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest)
-![React-Testing](https://img.shields.io/badge/-React_Testing_Library-000000?style=flat&logo=testing-library)
-![Cypress](https://img.shields.io/badge/-Cypress-000000?style=flat&logo=cypress)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo)
-![Loopback 5](https://img.shields.io/badge/-Loopback-000000?style=flat&logo=loopback)
-![Sequelize](https://img.shields.io/badge/-Sequelize-000000?style=flat&logo=sequelize)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
-![Webpack 5](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack)
-![Microfrontend](https://img.shields.io/badge/-Micro_Frontend-000000?style=flat&logo=MicroStrategy)
-![React Native](https://img.shields.io/badge/-React_Native-000000?style=flat&logo=react)
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
-![Sonarqube](https://img.shields.io/badge/-Sonarqube-000000?style=flat&logo=sonarqube)
-![Keycloak](https://img.shields.io/badge/-Keycloak-000000?style=flat&logo=keycdn)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
-![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
-![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira)
-![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)
-![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-000000?style=flat&logo=raspberrypi)
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+  <div style="flex: 1 1 30%">
+    <h5>Frontend & Languages</h5>
+    <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript" />
+    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" />
+    <img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react" />
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs" />
+    <img src="https://img.shields.io/badge/-RTK-000000?style=flat&logo=redux" />
+    <img src="https://img.shields.io/badge/-styled--components-000000?style=flat&logo=styled-components" />
+    <img src="https://img.shields.io/badge/-Tailwind CSS-000000?style=flat&logo=tailwindcss" />
+    <img src="https://img.shields.io/badge/-Framer Motion-000000?style=flat&logo=framer" />
+    <img src="https://img.shields.io/badge/-Storybook-000000?style=flat&logo=storybook" />
+    <img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma" />
+    <img src="https://img.shields.io/badge/-Material UI-000000?style=flat&logo=mui" />
+    <img src="https://img.shields.io/badge/-Mantine-000000?style=flat&logo=mantine" />
+    <img src="https://img.shields.io/badge/-shadcn/ui-000000?style=flat&logo=shadcn/ui" />
+    <img src="https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack" />
+    <img src="https://img.shields.io/badge/-Webpack 5 Microfrontend-000000?style=flat&logo=webpack" />
+  </div>
+  <div style="flex: 1 1 30%">
+    <h5>Backend</h5>
+    <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" />
+    <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" />
+    <img src="https://img.shields.io/badge/-Loopback-000000?style=flat&logo=loopback" />
+    <img src="https://img.shields.io/badge/-Microservices-000000?style=flat&logo=microservices" />
+    <img src="https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger" />
+  </div>
+  <div style="flex: 1 1 30%">
+    <h5>Database</h5>
+    <img src="https://img.shields.io/badge/-Sequelize-000000?style=flat&logo=sequelize" />
+    <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql" />
+    <img src="https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis" />
+    <img src="https://img.shields.io/badge/-Mongoose-000000?style=flat&logo=mongoose" />
+    <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb" />
+    <img src="https://img.shields.io/badge/-Supabase-000000?style=flat&logo=supabase" />
+  </div>
 
+  <div style="flex: 1 1 30%">
+    <h5>Testing & Quality</h5>
+    <img src="https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest" />
+    <img src="https://img.shields.io/badge/-React_Testing_Library-000000?style=flat&logo=testing-library" />
+    <img src="https://img.shields.io/badge/-Sonarqube-000000?style=flat&logo=sonarqube" />
+  </div>
+  <div style="flex: 1 1 30%">
+    <h5>DevOps</h5>
+    <img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" />
+    <img src="https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes" />
+    <img src="https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx" />
+    <img src="https://img.shields.io/badge/-Caddy-000000?style=flat&logo=caddy" />
+    <img src="https://img.shields.io/badge/-Cloudflare-000000?style=flat&logo=cloudflare" />
+    <img src="https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu" />
+  </div>
+   <div style="flex: 1 1 30%">
+    <h5>Infrastructure & Monitoring</h5>
+    <img src="https://img.shields.io/badge/-Grafana-000000?style=flat&logo=grafana" />
+    <img src="https://img.shields.io/badge/-Prometheus-000000?style=flat&logo=prometheus" />
+    <img src="https://img.shields.io/badge/-Elasticsearch-000000?style=flat&logo=elasticsearch" />
+    <img src="https://img.shields.io/badge/-Kibana-000000?style=flat&logo=kibana" />
+    <img src="https://img.shields.io/badge/-Logstash-000000?style=flat&logo=logstash" />
+    <img src="https://img.shields.io/badge/-RabbitMQ-000000?style=flat&logo=rabbitmq" />
+  </div>
+  <div style="flex: 1 1 30%">
+    <h5>Auth & Security</h5>
+    <img src="https://img.shields.io/badge/-Keycloak-000000?style=flat&logo=keycloak" />
+  </div>
+  <div style="flex: 1 1 30%">
+    <h5>Other Techs & Tools</h5>
+    <img src="https://img.shields.io/badge/-React Native-000000?style=flat&logo=react" />
+    <img src="https://img.shields.io/badge/-Wordpress-000000?style=flat&logo=wordpress" />
+    <img src="https://img.shields.io/badge/-Raspberry Pi-000000?style=flat&logo=raspberry-pi" />
+    <img src="https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino" />
+  </div>
+  <div style="flex: 1 1 30%">
+    <h5>Version Control & Collabs</h5>
+    <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git" />
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab" />
+    <img src="https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira" />
+    <img src="https://img.shields.io/badge/-Agile-000000?style=flat&logo=agile" />
+  </div>
+</div>
 
 <div align="center">
    <img width="400" src="https://github-readme-stats.vercel.app/api?username=jeffreybernadas&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
