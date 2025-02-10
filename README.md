@@ -26,7 +26,7 @@
     </td>
     <td width="50%" align="center" valign="top" style="border: none;">
       <h5>Backend</h5>
-      <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" /> <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" /> <img src="https://img.shields.io/badge/-Loopback-000000?style=flat&logo=loopback" /> <img src="https://img.shields.io/badge/-Microservices-000000?style=flat&logo=microservices" /> <img src="https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger" />
+      <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" /> <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" /> <img src="https://img.shields.io/badge/-Loopback-000000?style=flat&logo=loopback" /> <img src="https://img.shields.io/badge/-Microservices-000000?style=flat&logo=microservices" /> <img src="https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger" /> <img src="https://img.shields.io/badge/-RESTful API-000000?style=flat&logo=swagger" />
     </td>
   </tr>
 </table>
@@ -61,7 +61,7 @@
   <tr style="border: none;">
     <td width="50%" align="center" valign="top" style="border: none;">
       <h5>Other Techs & Tools</h5>
-      <img src="https://img.shields.io/badge/-React Native-000000?style=flat&logo=react" /> <img src="https://img.shields.io/badge/-Wordpress-000000?style=flat&logo=wordpress" /> <img src="https://img.shields.io/badge/-Minio-000000?style=flat&logo=minio" /> <img src="https://img.shields.io/badge/-Raspberry Pi-000000?style=flat&logo=raspberry-pi" /> <img src="https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino" />
+      <img src="https://img.shields.io/badge/-React Native-000000?style=flat&logo=react" /> <img src="https://img.shields.io/badge/-Wordpress-000000?style=flat&logo=wordpress" /> <img src="https://img.shields.io/badge/-Rollup.js-000000?style=flat&logo=rollup.js" /> <img src="https://img.shields.io/badge/-Minio-000000?style=flat&logo=minio" /> <img src="https://img.shields.io/badge/-Raspberry Pi-000000?style=flat&logo=raspberry-pi" /> <img src="https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino" /> <img src="https://img.shields.io/badge/-IoT-000000?style=flat&logo=raspberry-pi" />
     </td>
     <td width="50%" align="center" valign="top" style="border: none;">
       <h5>Auth & Security</h5>
