@@ -60,12 +60,12 @@
 <table style="border: none; border-collapse: collapse;" align="center" width="100%">
   <tr style="border: none;">
     <td width="50%" align="center" valign="top" style="border: none;">
-      <h5>Auth & Security</h5>
-      <img src="https://img.shields.io/badge/-Keycloak-000000?style=flat&logo=keycloak" /> <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens" />
+      <h5>Other Techs & Tools</h5>
+      <img src="https://img.shields.io/badge/-React Native-000000?style=flat&logo=react" /> <img src="https://img.shields.io/badge/-Wordpress-000000?style=flat&logo=wordpress" /> <img src="https://img.shields.io/badge/-Minio-000000?style=flat&logo=minio" /> <img src="https://img.shields.io/badge/-Raspberry Pi-000000?style=flat&logo=raspberry-pi" /> <img src="https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino" />
     </td>
     <td width="50%" align="center" valign="top" style="border: none;">
-      <h5>Other Techs & Tools</h5>
-      <img src="https://img.shields.io/badge/-React Native-000000?style=flat&logo=react" /> <img src="https://img.shields.io/badge/-Wordpress-000000?style=flat&logo=wordpress" /> <img src="https://img.shields.io/badge/-Raspberry Pi-000000?style=flat&logo=raspberry-pi" /> <img src="https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino" />
+      <h5>Auth & Security</h5>
+      <img src="https://img.shields.io/badge/-Keycloak-000000?style=flat&logo=keycloak" /> <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens" />
     </td>
   </tr>
 </table>
@@ -74,8 +74,9 @@
   <tr style="border: none;">
     <td align="center" style="border: none;">
       <h5>Version Control & Collabs</h5>
-      <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git" /> <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" /> <img src="https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab" /> <img src="https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira" /> <img src="https://img.shields.io/badge/-Agile-000000?style=flat&logo=agile" />
+      <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git" /> <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" /> <img src="https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab" /> <img src="https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira" /> <img src="https://img.shields.io/badge/-Agile-000000?style=flat&logo=scrum" /> <img src="https://img.shields.io/badge/-CICD-000000?style=flat&logo=github-actions" />
     </td>
+
   </tr>
 </table>
 
