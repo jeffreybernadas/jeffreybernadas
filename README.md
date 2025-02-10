@@ -18,88 +18,66 @@
 
 <h4 align="center">Technologies:</h4>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin-bottom: 20px;">
-  <div 48%>
-    <h5>Frontend & Languages</h5>
-    <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript" />
-    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" />
-    <img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react" />
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs" />
-    <img src="https://img.shields.io/badge/-RTK-000000?style=flat&logo=redux" />
-    <img src="https://img.shields.io/badge/-styled--components-000000?style=flat&logo=styled-components" />
-    <img src="https://img.shields.io/badge/-Tailwind CSS-000000?style=flat&logo=tailwindcss" />
-    <img src="https://img.shields.io/badge/-Framer Motion-000000?style=flat&logo=framer" />
-    <img src="https://img.shields.io/badge/-Storybook-000000?style=flat&logo=storybook" />
-    <img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma" />
-    <img src="https://img.shields.io/badge/-Material UI-000000?style=flat&logo=mui" />
-    <img src="https://img.shields.io/badge/-Mantine-000000?style=flat&logo=mantine" />
-    <img src="https://img.shields.io/badge/-shadcn/ui-000000?style=flat&logo=shadcn/ui" />
-    <img src="https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack" />
-    <img src="https://img.shields.io/badge/-Webpack 5 Microfrontend-000000?style=flat&logo=webpack" />
-  </div>
-  <div>
-    <h5>Backend</h5>
-    <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" />
-    <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" />
-    <img src="https://img.shields.io/badge/-Loopback-000000?style=flat&logo=loopback" />
-    <img src="https://img.shields.io/badge/-Microservices-000000?style=flat&logo=microservices" />
-    <img src="https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger" />
-  </div>
-  <div>
-    <h5>Database</h5>
-    <img src="https://img.shields.io/badge/-Sequelize-000000?style=flat&logo=sequelize" />
-    <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql" />
-    <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql" />
-    <img src="https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis" />
-    <img src="https://img.shields.io/badge/-Mongoose-000000?style=flat&logo=mongoose" />
-    <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb" />
-    <img src="https://img.shields.io/badge/-Supabase-000000?style=flat&logo=supabase" />
-  </div>
-  <div>
-    <h5>Testing & Quality</h5>
-    <img src="https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest" />
-    <img src="https://img.shields.io/badge/-React_Testing_Library-000000?style=flat&logo=testing-library" />
-    <img src="https://img.shields.io/badge/-Sonarqube-000000?style=flat&logo=sonarqube" />
-  </div>
-  <div>
-    <h5>DevOps</h5>
-    <img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" />
-    <img src="https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes" />
-    <img src="https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx" />
-    <img src="https://img.shields.io/badge/-Caddy-000000?style=flat&logo=caddy" />
-    <img src="https://img.shields.io/badge/-Cloudflare-000000?style=flat&logo=cloudflare" />
-    <img src="https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu" />
-  </div>
-   <div>
-    <h5>Infrastructure & Monitoring</h5>
-    <img src="https://img.shields.io/badge/-Grafana-000000?style=flat&logo=grafana" />
-    <img src="https://img.shields.io/badge/-Prometheus-000000?style=flat&logo=prometheus" />
-    <img src="https://img.shields.io/badge/-Elasticsearch-000000?style=flat&logo=elasticsearch" />
-    <img src="https://img.shields.io/badge/-Kibana-000000?style=flat&logo=kibana" />
-    <img src="https://img.shields.io/badge/-Logstash-000000?style=flat&logo=logstash" />
-    <img src="https://img.shields.io/badge/-RabbitMQ-000000?style=flat&logo=rabbitmq" />
-  </div>
-  <div>
-    <h5>Auth & Security</h5>
-    <img src="https://img.shields.io/badge/-Keycloak-000000?style=flat&logo=keycloak" />
-    <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens" />
-  </div>
-  <div>
-    <h5>Other Techs & Tools</h5>
-    <img src="https://img.shields.io/badge/-React Native-000000?style=flat&logo=react" />
-    <img src="https://img.shields.io/badge/-Wordpress-000000?style=flat&logo=wordpress" />
-    <img src="https://img.shields.io/badge/-Raspberry Pi-000000?style=flat&logo=raspberry-pi" />
-    <img src="https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino" />
-  </div>
-  <div>
-    <h5>Version Control & Collabs</h5>
-    <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git" />
-    <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" />
-    <img src="https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab" />
-    <img src="https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira" />
-    <img src="https://img.shields.io/badge/-Agile-000000?style=flat&logo=agile" />
-  </div>
-</div>
+<table style="border: none; border-collapse: collapse;" align="center" width="100%">
+  <tr style="border: none;">
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <h5>Frontend & Languages</h5>
+      <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript" /> <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" /> <img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react" /> <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs" /> <img src="https://img.shields.io/badge/-RTK-000000?style=flat&logo=redux" /> <img src="https://img.shields.io/badge/-styled--components-000000?style=flat&logo=styled-components" /> <img src="https://img.shields.io/badge/-Tailwind CSS-000000?style=flat&logo=tailwindcss" /> <img src="https://img.shields.io/badge/-Framer Motion-000000?style=flat&logo=framer" /> <img src="https://img.shields.io/badge/-Storybook-000000?style=flat&logo=storybook" /> <img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma" /> <img src="https://img.shields.io/badge/-Material UI-000000?style=flat&logo=mui" /> <img src="https://img.shields.io/badge/-Mantine-000000?style=flat&logo=mantine" /> <img src="https://img.shields.io/badge/-shadcn/ui-000000?style=flat&logo=shadcn/ui" /> <img src="https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack" /> <img src="https://img.shields.io/badge/-Webpack 5 Microfrontend-000000?style=flat&logo=webpack" />
+    </td>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <h5>Backend</h5>
+      <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" /> <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" /> <img src="https://img.shields.io/badge/-Loopback-000000?style=flat&logo=loopback" /> <img src="https://img.shields.io/badge/-Microservices-000000?style=flat&logo=microservices" /> <img src="https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger" />
+    </td>
+  </tr>
+</table>
+
+<table style="border: none; border-collapse: collapse;" align="center" width="100%">
+  <tr style="border: none;">
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <h5>Database</h5>
+      <img src="https://img.shields.io/badge/-Sequelize-000000?style=flat&logo=sequelize" /> <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql" /> <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql" /> <img src="https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis" /> <img src="https://img.shields.io/badge/-Mongoose-000000?style=flat&logo=mongoose" /> <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb" /> <img src="https://img.shields.io/badge/-Supabase-000000?style=flat&logo=supabase" />
+    </td>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <h5>Testing & Quality</h5>
+      <img src="https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest" /> <img src="https://img.shields.io/badge/-React_Testing_Library-000000?style=flat&logo=testing-library" /> <img src="https://img.shields.io/badge/-Sonarqube-000000?style=flat&logo=sonarqube" />
+    </td>
+  </tr>
+</table>
+
+<table style="border: none; border-collapse: collapse;" align="center" width="100%">
+  <tr style="border: none;">
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <h5>DevOps</h5>
+      <img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" /> <img src="https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes" /> <img src="https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx" /> <img src="https://img.shields.io/badge/-Caddy-000000?style=flat&logo=caddy" /> <img src="https://img.shields.io/badge/-Cloudflare-000000?style=flat&logo=cloudflare" /> <img src="https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu" />
+    </td>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <h5>Infrastructure & Monitoring</h5>
+      <img src="https://img.shields.io/badge/-Grafana-000000?style=flat&logo=grafana" /> <img src="https://img.shields.io/badge/-Prometheus-000000?style=flat&logo=prometheus" /> <img src="https://img.shields.io/badge/-Elasticsearch-000000?style=flat&logo=elasticsearch" /> <img src="https://img.shields.io/badge/-Kibana-000000?style=flat&logo=kibana" /> <img src="https://img.shields.io/badge/-Logstash-000000?style=flat&logo=logstash" /> <img src="https://img.shields.io/badge/-RabbitMQ-000000?style=flat&logo=rabbitmq" />
+    </td>
+  </tr>
+</table>
+
+<table style="border: none; border-collapse: collapse;" align="center" width="100%">
+  <tr style="border: none;">
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <h5>Auth & Security</h5>
+      <img src="https://img.shields.io/badge/-Keycloak-000000?style=flat&logo=keycloak" /> <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens" />
+    </td>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <h5>Other Techs & Tools</h5>
+      <img src="https://img.shields.io/badge/-React Native-000000?style=flat&logo=react" /> <img src="https://img.shields.io/badge/-Wordpress-000000?style=flat&logo=wordpress" /> <img src="https://img.shields.io/badge/-Raspberry Pi-000000?style=flat&logo=raspberry-pi" /> <img src="https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino" />
+    </td>
+  </tr>
+</table>
+
+<table style="border: none; border-collapse: collapse;" align="center" width="100%">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <h5>Version Control & Collabs</h5>
+      <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git" /> <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" /> <img src="https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab" /> <img src="https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira" /> <img src="https://img.shields.io/badge/-Agile-000000?style=flat&logo=agile" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
    <img width="400" src="https://github-readme-stats.vercel.app/api?username=jeffreybernadas&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
