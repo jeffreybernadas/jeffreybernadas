@@ -18,8 +18,8 @@
 
 <h4 align="center">Technologies:</h4>
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-  <div style="flex: 1 1 30%">
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin-bottom: 20px;">
+  <div 48%>
     <h5>Frontend & Languages</h5>
     <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript" />
     <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" />
@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack" />
     <img src="https://img.shields.io/badge/-Webpack 5 Microfrontend-000000?style=flat&logo=webpack" />
   </div>
-  <div style="flex: 1 1 30%">
+  <div>
     <h5>Backend</h5>
     <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" />
     <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" />
@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/-Microservices-000000?style=flat&logo=microservices" />
     <img src="https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger" />
   </div>
-  <div style="flex: 1 1 30%">
+  <div>
     <h5>Database</h5>
     <img src="https://img.shields.io/badge/-Sequelize-000000?style=flat&logo=sequelize" />
     <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql" />
@@ -55,14 +55,13 @@
     <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb" />
     <img src="https://img.shields.io/badge/-Supabase-000000?style=flat&logo=supabase" />
   </div>
-
-  <div style="flex: 1 1 30%">
+  <div>
     <h5>Testing & Quality</h5>
     <img src="https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest" />
     <img src="https://img.shields.io/badge/-React_Testing_Library-000000?style=flat&logo=testing-library" />
     <img src="https://img.shields.io/badge/-Sonarqube-000000?style=flat&logo=sonarqube" />
   </div>
-  <div style="flex: 1 1 30%">
+  <div>
     <h5>DevOps</h5>
     <img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" />
     <img src="https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes" />
@@ -71,7 +70,7 @@
     <img src="https://img.shields.io/badge/-Cloudflare-000000?style=flat&logo=cloudflare" />
     <img src="https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu" />
   </div>
-   <div style="flex: 1 1 30%">
+   <div>
     <h5>Infrastructure & Monitoring</h5>
     <img src="https://img.shields.io/badge/-Grafana-000000?style=flat&logo=grafana" />
     <img src="https://img.shields.io/badge/-Prometheus-000000?style=flat&logo=prometheus" />
@@ -80,18 +79,19 @@
     <img src="https://img.shields.io/badge/-Logstash-000000?style=flat&logo=logstash" />
     <img src="https://img.shields.io/badge/-RabbitMQ-000000?style=flat&logo=rabbitmq" />
   </div>
-  <div style="flex: 1 1 30%">
+  <div>
     <h5>Auth & Security</h5>
     <img src="https://img.shields.io/badge/-Keycloak-000000?style=flat&logo=keycloak" />
+    <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens" />
   </div>
-  <div style="flex: 1 1 30%">
+  <div>
     <h5>Other Techs & Tools</h5>
     <img src="https://img.shields.io/badge/-React Native-000000?style=flat&logo=react" />
     <img src="https://img.shields.io/badge/-Wordpress-000000?style=flat&logo=wordpress" />
     <img src="https://img.shields.io/badge/-Raspberry Pi-000000?style=flat&logo=raspberry-pi" />
     <img src="https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino" />
   </div>
-  <div style="flex: 1 1 30%">
+  <div>
     <h5>Version Control & Collabs</h5>
     <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git" />
     <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" />
