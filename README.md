@@ -4,7 +4,7 @@
 
 <h3 align="center">Get to know me:</h3>
 
-<h4 align="center"><a href='https://www.jeffreybernadas.com/' target="blank">Portfolio</a> | <a href='https://www.jeffreybernadas.com/static/media/jeffrey-a4.e3ea73d231604e4fbcad.pdf' target="blank">Resume</a> | <a href='https://thecodebit.digital/' target="blank">Server</a></h4>
+<h4 align="center"><a href='https://www.jeffreybernadas.com/' target="blank">Portfolio</a> | <a href='https://www.jeffreybernadas.com/static/media/jeffrey-a4.e3ea73d231604e4fbcad.pdf' target="blank">Resume</a> | <a href='https://thecodebit.online/' target="blank">Server</a></h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jeffreybernadas&label=Profile%20views&color=0e75b6&style=flat" alt="jeffreybernadas" /></p>
 
