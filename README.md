@@ -4,7 +4,7 @@
 
 <h3 align="center">Get to know me:</h3>
 
-<h4 align="center"><a href='https://www.jeffreybernadas.com/' target="blank">Portfolio</a> | <a href='https://www.jeffreybernadas.com/static/media/jeffrey-a4.e3ea73d231604e4fbcad.pdf' target="blank">Resume</a> | <a href='https://thecodebit.online/' target="blank">Server</a></h4>
+<h4 align="center"><a href='https://www.jeffreybernadas.com/' target="blank">Portfolio</a> | <a href='https://www.jeffreybernadas.com/assets/resume.pdf' target="blank">Resume</a> | <a href='https://thecodebit.online/' target="blank">Server</a></h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jeffreybernadas&label=Profile%20views&color=0e75b6&style=flat" alt="jeffreybernadas" /></p>
 
@@ -26,7 +26,7 @@
     </td>
     <td width="50%" align="center" valign="top" style="border: none;">
       <h5>Backend</h5>
-      <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" /> <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" /> <img src="https://img.shields.io/badge/-Loopback-000000?style=flat&logo=loopback" /> <img src="https://img.shields.io/badge/-Microservices-000000?style=flat&logo=microservices" /> <img src="https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger" /> <img src="https://img.shields.io/badge/-RESTful API-000000?style=flat&logo=swagger" />
+      <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" /> <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" /> <img src="https://img.shields.io/badge/-Nestjs-000000?style=flat&logo=nestjs" /> <img src="https://img.shields.io/badge/-Loopback-000000?style=flat&logo=loopback" /> <img src="https://img.shields.io/badge/-Microservices-000000?style=flat&logo=microservices" /> <img src="https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger" /> <img src="https://img.shields.io/badge/-RESTful API-000000?style=flat&logo=swagger" />
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   <tr style="border: none;">
     <td width="50%" align="center" valign="top" style="border: none;">
       <h5>Database</h5>
-      <img src="https://img.shields.io/badge/-Sequelize-000000?style=flat&logo=sequelize" /> <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql" /> <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql" /> <img src="https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis" /> <img src="https://img.shields.io/badge/-Mongoose-000000?style=flat&logo=mongoose" /> <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb" /> <img src="https://img.shields.io/badge/-Supabase-000000?style=flat&logo=supabase" />
+      <img src="https://img.shields.io/badge/-Sequelize-000000?style=flat&logo=sequelize" /> <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql" /> <img src="https://img.shields.io/badge/-Prisma-000000?style=flat&logo=prisma" /> <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql" /> <img src="https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis" /> <img src="https://img.shields.io/badge/-Mongoose-000000?style=flat&logo=mongoose" /> <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb" /> <img src="https://img.shields.io/badge/-Supabase-000000?style=flat&logo=supabase" />
     </td>
     <td width="50%" align="center" valign="top" style="border: none;">
       <h5>Testing & Quality</h5>
@@ -48,11 +48,11 @@
   <tr style="border: none;">
     <td width="50%" align="center" valign="top" style="border: none;">
       <h5>DevOps</h5>
-      <img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" /> <img src="https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes" /> <img src="https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx" /> <img src="https://img.shields.io/badge/-Caddy-000000?style=flat&logo=caddy" /> <img src="https://img.shields.io/badge/-Cloudflare-000000?style=flat&logo=cloudflare" /> <img src="https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu" />
+      <img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" /> <img src="https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx" /> <img src="https://img.shields.io/badge/-Cloudflare-000000?style=flat&logo=cloudflare" /> <img src="https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu" />
     </td>
     <td width="50%" align="center" valign="top" style="border: none;">
       <h5>Infrastructure & Monitoring</h5>
-      <img src="https://img.shields.io/badge/-Grafana-000000?style=flat&logo=grafana" /> <img src="https://img.shields.io/badge/-Prometheus-000000?style=flat&logo=prometheus" /> <img src="https://img.shields.io/badge/-Elasticsearch-000000?style=flat&logo=elasticsearch" /> <img src="https://img.shields.io/badge/-Kibana-000000?style=flat&logo=kibana" /> <img src="https://img.shields.io/badge/-Logstash-000000?style=flat&logo=logstash" /> <img src="https://img.shields.io/badge/-RabbitMQ-000000?style=flat&logo=rabbitmq" />
+      <img src="https://img.shields.io/badge/-Grafana-000000?style=flat&logo=grafana" /> <img src="https://img.shields.io/badge/-Prometheus-000000?style=flat&logo=prometheus" /> <img src="https://img.shields.io/badge/-Elasticsearch-000000?style=flat&logo=elasticsearch" /> <img src="https://img.shields.io/badge/-Kibana-000000?style=flat&logo=kibana" /> <img src="https://img.shields.io/badge/-RabbitMQ-000000?style=flat&logo=rabbitmq" />
     </td>
   </tr>
 </table>
